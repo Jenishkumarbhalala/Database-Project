@@ -119,8 +119,8 @@ The purpose of this project is to develop a system that can effectively manage a
     
 1. Clone the repository:
     ```bash
-    git clone https://github.com/shivi-1010/final-project.git
-    cd final-project
+    git clone https://github.com/Jenishkumarbhalala/Database-Project.git
+    cd Database-Project
     ```
 2. Install necessary packages and dependencies:
     ```bash
